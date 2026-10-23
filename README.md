@@ -7,3 +7,7 @@ I am a student at upGrad SoT, currently learning Git and GitHub
 - Problem solving
 - Basic Git
 
+## Projects
+- github project 1: reasearch
+- github project 2: paper
+
