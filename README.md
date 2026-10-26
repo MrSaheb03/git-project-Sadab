@@ -17,3 +17,9 @@ I am a student at upGrad SoT, currently learning Git and GitHub
 ## Social Links
 - GutHub: https://github.com/MrSaheb03/git-project-Sadab.git
 - LinkedIN: https://www.linkedin.com/in/sadab-saheb-27a711211?utm_source=
+
+## Hobbies 
+- playing football
+- dancing
+- like to explore tech
+
